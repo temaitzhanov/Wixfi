@@ -3,3 +3,8 @@
   height: 40px;
   margin: 8px 40px 8px 0px;
   }
+  @media screen and (min-width:320px) and (max-width: 606px){
+    .top-menu__profile-pic{
+    display: none;
+    }
+  }

@@ -7,3 +7,8 @@
   color: #4070F4;
   margin: 14px 0px 14px 34px;
 }
+@media screen and(min-width: 607px) and (max-width: 626px){
+  .footer__logo{
+  margin: 14px 14px 14px 20px;
+  }
+}
