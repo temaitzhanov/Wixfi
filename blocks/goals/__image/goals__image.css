@@ -2,6 +2,12 @@
   width: 506px;
   height: 506px;
 }
+@media screen and (min-width:768px) and (max-width: 1024px){
+  .goals__image{
+  width: 400px;
+  height: 400px;
+  }
+}
 @media screen and (min-width:320px) and (max-width: 767px){
   .goals__image{
     width: 320px;
