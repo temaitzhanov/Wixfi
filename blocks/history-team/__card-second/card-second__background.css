@@ -1,0 +1,8 @@
+.card-second__background{
+  width : 382px;
+  height: 230px;
+  margin: 17px auto;
+  background: #E6E7EE;
+  box-shadow: 5px 5px 10px #BECDE2, -5px -5px 10px #FFFFFF;
+  border-radius: 8.8px;
+}

@@ -1,0 +1,8 @@
+.numbers__background-image{
+  width: 90px;
+  height: 90px;
+  margin: auto;
+  border-radius: 50%;
+  background-color:  #E6E7EE;
+  box-shadow: 5px 5px 10px #BECDE2, -5px -5px 10px #FFFFFF;
+}

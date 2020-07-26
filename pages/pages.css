@@ -1,0 +1,14 @@
+@import url(../fonts/fonts.css);
+@import url(../vendor/normalize.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/top-menu/to-menu.css);
+@import url(../blocks/goal/goal.css);
+@import url(../blocks/goals/goals.css);
+@import url(../blocks/numbers/numbers.css);
+@import url(../blocks/history/history.css);
+@import url(../blocks/history-team/history-team.css);
+@import url(../blocks/team/team.css);
+@import url(../blocks/footer/footer.css);
+.page{
+  background-color:#E6E7EE;
+}

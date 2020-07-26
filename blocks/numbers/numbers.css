@@ -1,0 +1,12 @@
+@import url(../numbers/__background-image/numbers__background-image.css);
+@import url(../numbers/__card/number__card.css);
+@import url(../numbers/__image/numbers__image.css);
+@import url(../numbers/__point/numbers__point.css);
+@import url(../numbers/__text/numbers__text.css);
+.numbers{
+  width: 876px;
+  margin: 117px auto 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

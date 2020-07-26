@@ -1,0 +1,9 @@
+.footer__logo{
+  font-family: 'Roboto', Arial, Helvetica, sans-serif; /*Докрутить шрифты Roboto*/
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 28px;
+  color: #4070F4;
+  margin: 14px 0px 14px 34px;
+}

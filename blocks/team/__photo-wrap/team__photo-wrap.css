@@ -1,0 +1,9 @@
+.team__photo-wrap{
+  width: 162px;
+  height: 162px;
+  margin: 25px 0px 0px 0px;
+  background-color: #E6E7EE;
+  border: 1px solid #D1D9E6;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 2px #B8B9BE;
+}

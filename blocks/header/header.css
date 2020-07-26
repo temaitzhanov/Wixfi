@@ -1,0 +1,9 @@
+.header{
+  max-width: 1275px;
+  height: 56px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  background-color: #E6E6EE;
+  box-shadow: 5px 5px 10px #BECDE2, -5px -5px 10px #FFFFFF;
+}

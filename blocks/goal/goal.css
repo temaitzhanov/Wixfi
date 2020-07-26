@@ -1,0 +1,18 @@
+@import url(./__image-action/goal__image-action.css);
+@import url(./__image-dolar/goal__image-dolar.css);
+@import url(./__image-down/goal__image-down.css);
+@import url(./__img-background/goal__img-background.css);
+@import url(./__subtitle/goal__subtitle.css);
+@import url(./__subtitle/goal__subtitle-sm.css);
+@import url(./__title/goal__title.css);
+@import url(./__wrap/goal__wrap.css);
+.goal{
+  width: 1110px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  background-color: #E6E7EE;
+  box-shadow: 5px 5px 10px #BECDE2, -5px -5px 10px #FFFFFF;
+  border-radius: 8.8px;
+  margin-top: 100px;
+}

@@ -1,0 +1,9 @@
+.history-team__card-first{
+  width: 416px;
+  height: 308px;
+  margin: 89px 32px 0px 0px;
+  grid-area: first-card;
+  background: #E6E7EE;
+  box-shadow: inset 5px 5px 7px #BECDE2, inset -6.22302px -6.22302px 5px #FFFFFF;
+  border-radius: 8.8px;
+}

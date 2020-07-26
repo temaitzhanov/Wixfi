@@ -1,0 +1,10 @@
+.footer__container{
+  display: flex;
+  justify-content: space-between;
+  width: 1240px;
+  margin: 100px auto 0px;
+  height: 56px;
+  background: #E6E6EE;
+  border-radius: 6px;
+  box-shadow: -5px -5px 10px #BECDE2, 5px 5px 10px #FFFFFF;
+}

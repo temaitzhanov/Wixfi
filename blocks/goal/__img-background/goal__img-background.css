@@ -1,0 +1,8 @@
+.goal__img-background{
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  margin: 48px auto 0px;
+  background: #E6E7EE;
+  box-shadow: 5px 5px 10px #BECDE2, -5px -5px 10px #FFFFFF;
+}

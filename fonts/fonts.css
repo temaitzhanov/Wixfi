@@ -1,0 +1,24 @@
+@font-face{
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  src: url(Roboto-Bold.woff) format('woff'),
+  url(Roboto-Bold.woff2) format('woff2');
+}
+@font-face{
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url(NunitoSans-Regular.woff) format('woff'),
+  url(NunitoSans-Regular.woff2) format('woff2');
+}
+@font-face{
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url(Muli-Regular.woff) format('woff'),
+  url(Muli-Regular.woff2) format('woff2');
+}

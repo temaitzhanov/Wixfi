@@ -1,0 +1,25 @@
+@import url(../history-team/__background/card-first__background.css);
+@import url(../history-team/__card-first/card-first__signature.css);
+@import url(../history-team/__card-first/history-team__card-first.css);
+@import url(../history-team/__card-second/card-second__background.css);
+@import url(../history-team/__card-second/history-team__card-second.css);
+@import url(../history-team/__card-third/card-third__background.css);
+@import url(../history-team/__card-third/history-team__card-third.css);
+@import url(../history-team/__figure/history-team__eclips-down.css);
+@import url(../history-team/__figure/history-team__eclips-mid.css);
+@import url(../history-team/__figure/history-team__eclips-top.css);
+@import url(../history-team/__figure/history-team__rectangle-first.css);
+@import url(../history-team/__figure/history-team__rectangle-second.css);
+@import url(../history-team/__figure/rectangl__second.css);
+@import url(../history-team/__figure/rectangle__first.css);
+@import url(../history-team/__text/card__text.css);
+@import url(../history-team/__title/card__title.css);
+.history-team{
+  display: grid;
+  grid-template-columns: 448px 25px 447px;
+  grid-template-rows:  397px 324px 314px;
+  grid-template-areas:
+  "first-card first-ractangle ."
+  ". eclips-midl second-card"
+  "third-card second-ractangle .";
+}

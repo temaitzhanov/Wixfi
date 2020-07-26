@@ -1,0 +1,13 @@
+@import url(../goals/__content/goals__content.css);
+@import url(../goals/__image-background/goals__image-background.css);
+@import url(../goals/__image/goals__image.css);
+@import url(../goals/__signature-place/goals__signature-place.css);
+@import url(../goals/__signature/goals__signature.css);
+@import url(../goals/__text/goals__text.css);
+@import url(../goals/__title/goals__title.css);
+.goals{
+  margin-top: 118px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
