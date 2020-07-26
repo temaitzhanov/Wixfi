@@ -12,4 +12,4 @@ HTML, CSS, BEM, FIGMA
 
 ## Сылка на проект
 
-Посмотреть можно по ссылки: ()
+Посмотреть можно по ссылки:  https://temaitzhanov.github.io/Wixfi/
