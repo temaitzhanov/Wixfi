@@ -12,3 +12,7 @@
 .page{
   background-color:#E6E7EE;
 }
+.ahref-none{
+  text-decoration: none;
+  color:  #4070F4;
+}
