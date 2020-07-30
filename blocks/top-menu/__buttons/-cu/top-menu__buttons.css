@@ -1,0 +1,25 @@
+.top-menu__buttons-cu{
+  max-width: 942px;
+  display: flex;
+}
+
+@media screen and (min-width: 866px) and (max-width: 1200px){
+  .top-menu__buttons-cu{
+  width: 600px;
+  }
+}
+@media screen and (min-width: 607px) and (max-width:865px){
+  .top-menu__buttons-cu{
+  max-width: 100%;
+  }
+}
+@media screen and (min-width:351px) and (max-width: 606px){
+  .top-menu__buttons-cu{
+    max-width: 100%;
+  }
+  }
+  @media screen and (min-width:320px) and (max-width: 350px){
+    .top-menu__buttons-cu{
+      max-width: 100%;
+    }
+  }

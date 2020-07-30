@@ -2,3 +2,33 @@
   max-width: 645px;
   margin: 0px auto 26px;
 }
+@media screen and (min-width: 872px) and (max-width: 910px){
+  .form__information-send{
+  margin: 17px auto 18px;
+  max-width: 600px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 871px){
+  .form__information-send{
+  margin: 15px auto 16px;
+  max-width: 580px;
+  }
+}
+@media screen and (min-width: 600px) and (max-width: 767px){
+  .form__information-send{
+  max-width: 380px;
+  margin: 10px auto 15px;
+  }
+}
+@media screen and (min-width: 420px) and (max-width: 599px){
+  .form__information-send{
+    max-width: 320px;
+    margin: 8px auto 14px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 419px){
+  .form__information-send{
+    margin: 20px auto 0px;
+    max-width: 285px;
+  }
+}

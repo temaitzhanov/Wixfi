@@ -9,3 +9,10 @@
 ::placeholder {
   padding: 6px 0px 10px 25px;
 }
+@media screen and (min-width: 320px) and (max-width: 419px){
+  ::placeholder{
+    padding: 6px 0px 10px 10px;
+    font-size: 14px;
+  }
+}
+
