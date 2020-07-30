@@ -18,8 +18,21 @@
     width: 170px;
   }
 }
-@media screen and (min-width:320px) and (max-width: 767px){
+@media screen and (min-width:571px) and (max-width: 767px){
+  .goals__signature-place{
+    width: 550px;
+    justify-content: center;
+  }
+}
+@media screen and (min-width:421px) and (max-width: 570px){
+  .goals__signature-place{
+    width: 400px;
+    justify-content: center;
+  }
+}
+@media screen and (min-width:320px) and (max-width: 420px){
   .goals__signature-place{
   width: 280px;
+  justify-content: center;
   }
 }

@@ -8,6 +8,11 @@
   width: 600px;
   }
 }
+@media screen and (min-width: 607px) and (max-width:865px){
+  .top-menu__buttons{
+  max-width: 100%;
+  }
+}
 @media screen and (min-width:351px) and (max-width: 606px){
   .top-menu__buttons{
     max-width: 100%;

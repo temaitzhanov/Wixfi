@@ -10,6 +10,10 @@
   text-decoration: none;
   color:  #4070F4;
 }
+
+button{
+  outline: none;
+}
 .form{
   border: 0.1px solid #E6E7EE;
   max-width: 872px;

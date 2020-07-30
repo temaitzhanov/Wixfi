@@ -6,6 +6,7 @@
   line-height: 28px;
   color: #4070F4;
   margin: 14px 0px 14px 34px;
+  text-decoration: none;
 }
 @media screen and(min-width: 607px) and (max-width: 626px){
   .footer__logo{
