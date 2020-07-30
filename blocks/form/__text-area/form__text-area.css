@@ -1,0 +1,12 @@
+.form__text-area{
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 117px;
+  background: #E6E7EE;
+  box-shadow: inset 5px 5px 7px #BECDE2, inset -6.22302px -6.22302px 5px #FFFFFF;
+  border-radius: 10px;
+  border: 0px;
+  resize: none;
+ }

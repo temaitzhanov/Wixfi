@@ -1,0 +1,25 @@
+@import url(./__background/form__background.css);
+@import url(./__box/form__box.css);
+@import url(./__button/form__button.css);
+@import url(./__cardinate/form__cardinate.css);
+@import url(./__contact-container/form__contact-container.css);
+@import url(./__doing/form__doing.css);
+@import url(./__image/form__image.css);
+@import url(./__information-send/form__information-send.css);
+@import url(./__input/form__input.css);
+@import url(./__insite-image/form__insit-image.css);
+@import url(./__left-part/form__left-part.css);
+@import url(./__right-part/form__right-part.css);
+@import url(./__some-information/form__some-information.css);
+@import url(./__subtitle/form__subtitle.css);
+@import url(./__text-area/form__text-area.css);
+@import url(./__title/form__title.css);
+@import url(./__area-button/form__area-button.css);
+.form{
+  border: 0.1px solid #E6E7EE;
+  max-width: 872px;
+  margin: 100px auto;
+  background: #E6E7EE;
+  box-shadow: 5px 5px 10px #BECDE2, -5px -5px 10px #FFFFFF;
+  border-radius: 10px;
+ }

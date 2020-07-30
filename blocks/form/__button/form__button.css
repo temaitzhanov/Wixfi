@@ -1,0 +1,17 @@
+.form__button{
+  display: block;
+  width: 140px;
+  height: 40px;
+  margin: 40px auto 91px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 20px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.85);
+  background: #E6E7EE;
+  box-shadow: 5px 5px 10px #BECDE2, -5px -5px 10px #FFFFFF;
+  border-radius: 10px;
+  border: 0;
+ }

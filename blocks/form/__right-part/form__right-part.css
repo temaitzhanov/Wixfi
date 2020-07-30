@@ -1,0 +1,11 @@
+.form__right-part{
+  width: 600px;
+  height: 44px;
+  background: #E6E7EE;
+  box-shadow: inset 5px 5px 7px #BECDE2, inset -6.22302px -6.22302px 5px #FFFFFF;
+  border-radius: 0px 10px 10px 0px;
+  border: 0px;
+}
+::placeholder {
+  padding: 6px 0px 10px 25px;
+}

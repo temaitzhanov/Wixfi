@@ -1,0 +1,6 @@
+.form__contact-container{
+  max-width: 631px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
