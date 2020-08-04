@@ -9,6 +9,7 @@
 @import url(../blocks/history-team/history-team.css);
 @import url(../blocks/team/team.css);
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/anchor-link/anchor-link.css);
 .page{
   background-color:#E6E7EE;
 }
