@@ -1,0 +1,13 @@
+.button__wrap{
+ max-width: 630px;
+}
+@media screen and (min-width: 395px) and (max-width:494px){
+  .button__wrap{
+  max-width: 200px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width:394px){
+  .button__wrap{
+  max-width: 100px;
+  }
+}

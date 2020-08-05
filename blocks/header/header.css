@@ -1,16 +1,13 @@
+@import url(./__button/header__button.css);
+@import url(./__empty/empty__button.css);
+@import url(./__login-pic/header__login-pic.css);
+@import url(./__logo/header__logo.css);
+@import url(./__search-pic/header__search-pic.css);
+@import url(./__wrap/header__wrap.css);
+@import url(./b__wrap/button__wrap.css);
 .header{
-  width: 100%;
-  height: 56px;
-  margin: auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  background-color: #E6E6EE;
-  box-shadow: 5px 5px 10px #BECDE2, -5px -5px 10px #FFFFFF;
+  max-width: 100%;
+  background: #E6E6EE;
+  box-shadow: 5px 5px 10px #BECDE2;
+  border-radius: 6px;
 }
-@media screen and (min-width:1320px) and (max-width:3200px){
-  .header{
-  justify-content: space-around;
-  }
-}
-

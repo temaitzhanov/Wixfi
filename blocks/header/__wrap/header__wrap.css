@@ -1,0 +1,23 @@
+.header__wrap{
+  max-width: 1280px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+}
+@media screen and (min-width: 395px) and (max-width: 494px){
+  .header__wrap{
+    max-width: 300px;
+    display: grid;
+    grid-template-columns: 2;
+    grid-row: 5;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 394px){
+   .header__wrap{
+     max-width: 300px;
+     display: grid;
+     grid-template-columns: 2;
+     grid-row: 5;
+   }
+}
