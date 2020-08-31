@@ -4,22 +4,26 @@
 @import url(../numbers/__point/numbers__point.css);
 @import url(../numbers/__text/numbers__text.css);
 .numbers{
-  width: 876px;
+  max-width: 1083px;
+  width: 100%;
+  height: 260px;
   margin: 117px auto 0px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
+  background-color: #7C92DC;
+  border-radius: 20px;
 }
 @media screen and (min-width:461px) and (max-width:1024px){
   .numbers{
-    width: 320px;
+    border-radius: 0px;
     display: flex;
     margin: 70px auto 40px;
   }
 }
 @media screen and (min-width:320px) and (max-width:460px){
   .numbers{
-    max-width: 310px;
+    border-radius: 0px;
     display: flex;
     margin: 60px auto 40px;
   }

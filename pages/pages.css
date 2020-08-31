@@ -10,7 +10,7 @@
 @import url(../blocks/anchor-link/anchor-link.css);
 @import url(../blocks/header/header.css);
 .page{
-  background-color:#E6E7EE;
+  background-color: #FDFDFD;
 }
 .ahref-none{
   text-decoration: none;

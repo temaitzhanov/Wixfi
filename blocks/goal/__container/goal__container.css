@@ -1,0 +1,8 @@
+.goal__container{
+  display: flex;
+  max-width: 1114px;
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+}

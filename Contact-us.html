@@ -13,42 +13,47 @@
 <body>
     <div class="root">
         <header class="header">
-            <p class="top-menu__logo">Wixfi</p>
-            <div class="top-menu__buttons-cu">
-               <button class="top-menu__buttons-button-cu"></button>
-               <button class="top-menu__buttons-button-cu"></button>
-               <a href="./index.html" class="ahref-none"><button class="top-menu__buttons-button-cu">home</button></a>
-               <button class="top-menu__buttons-button-cu">contact us</button>
-               <button class="top-menu__buttons-button-cu">sign in</button>
+          <div class="header__wrap">
+            <a href="index.html" class="header__logo">Wixfi</a>
+            <button class="empty__button"></button>
+            <div class="button__wrap">
+            <button class="header__button">home</button>
+            <button class="header__button header__button-action ">contact us</button>
+            <button class="header__button">sign in</button>
             </div>
-            <img src="./image/Rectangle.png" alt="Profile-Pic" class="top-menu__profile-pic">
+            <div class="header__pic-wrap">
+            <img src="image/Union.svg" alt="Картинка поиска" class="header__search-pic">
+            <img src="image/account_button.svg" alt="Акаунт" class="header__login-pic">
+            </div>
          </header>
     <div class="main-content">
      <section class="form">
         <h2 class="form__title">Get in touch today</h2>
         <p class="form__subtitle">Have a question in mind? Need help with an ongoing rental? Drop us a line about your needs, we answer same day.</p>
+
         <div class="form__contact-container">
+
           <div class="form__box">
-            <div class="form__background">
-              <img src="./image/phone.png" alt="Илюстрация телефона" class="form__image">
-            </div>
+              <img src="./image/phone.svg" alt="Илюстрация телефона" class="form__image">
             <p class="form__doing">Call</p>
             <p class="form__cardinate">+1(415)504-2607</p>
-            <p class="form__cardinate">Mon-Fri, 9am - 5pm</p>
+            <p class="form__cardinate-mon-tue">Mon-Fri, 9am - 5pm</p>
           </div>
+
           <div class="form__box">
-            <div class="form__background">
-              <img src="./image/send.png" alt="Илюстрация telegram" class="form__image">
-            </div>
+              <img src="./image/send.svg" alt="Илюстрация telegram" class="form__image">
             <p class="form__doing">Email</p>
             <p class="form__cardinate">Team@wixfi.com</p>
            </div>
+
          </div>
+
+
          <div class="form__information-send">
           <p class="form__some-information">Your name</p>
           <div class="form__input">
             <div class="form__left-part">
-              <img src="./image/account_circle.png" alt="Илюстрация контакта" class="form__insit-image-second">
+              <img src="./image/account_circle.svg" alt="Илюстрация контакта" class="form__insit-image-second">
             </div>
             <input type="text" placeholder="e.g Bonnie Green" class="form__right-part">
           </div>
@@ -58,7 +63,7 @@
           <p class="form__some-information">Your Email</p>
           <div class="form__input">
             <div class="form__left-part">
-              <img src="./image/markunread.png" alt="Илюстрация контакта" class="form__insit-image">
+              <img src="./image/markunread.svg" alt="Илюстрация контакта" class="form__insit-image">
             </div>
             <input type="text" placeholder="example@company.com" class="form__right-part">
           </div>

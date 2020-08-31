@@ -6,6 +6,7 @@
   font-size: 40px;
   line-height: 52px;
   text-align: left;
+  color: #5C78D4;
 }
 @media screen and (min-width:768px) and (max-width: 900px){
   .goals__title{

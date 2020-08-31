@@ -2,10 +2,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 350px;
-  height: 373px;
-  background-color: #E6E7EE;
-  box-shadow: 5px 5px 10px #BECDE2, -5px -5px 10px #FFFFFF;
+  width: 245px;
+  height: 272px;
+  background-color: #fff;
   border-radius: 8.8px;
   text-align: center;
   margin: 20px auto;

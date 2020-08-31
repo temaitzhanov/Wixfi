@@ -6,7 +6,7 @@
 @import url(../blocks/form/form.css);
 @import url(../blocks/header/header.css);
 .root{
-  background-color:#E6E7EE ;
+  background-color:#FDFDFD ;
 }
 .ahref-none{
   text-decoration: none;
