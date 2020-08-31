@@ -8,6 +8,10 @@
 .root{
   background-color:#FDFDFD ;
 }
+.href__none{
+  text-decoration: none;
+  color: #fff;
+}
 .ahref-none{
   text-decoration: none;
   color:  #4070F4;
